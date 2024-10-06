@@ -2,7 +2,7 @@
 This module contains unit tests for the database operations in main.py.
 """
 
-import pytest
+
 import main
 
 def test_add_user():
